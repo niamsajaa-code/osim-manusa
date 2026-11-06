@@ -1,0 +1,6 @@
+{
+  "name": "E-Voting OSIS - Sistem Pemilihan Ketua & Wakil OSIS",
+  "description": "Aplikasi pemilihan OSIS modern berbasis web dengan Supabase, dual-role Admin & Siswa, asas LUBER JURDIL, penghitungan real-time, dan manajemen data komprehensif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
