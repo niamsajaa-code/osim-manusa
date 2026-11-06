@@ -153,7 +153,7 @@ export const AdminLogin: React.FC<AdminLoginProps> = ({
               className="text-xs text-slate-500 hover:text-slate-800 font-medium inline-flex items-center gap-1.5 transition-colors"
             >
               <ArrowLeft className="w-3.5 h-3.5" />
-              <span>Kembali ke Halaman Pemilih Siswa</span>
+              <span>Kembali ke Halaman Login Pemilih</span>
             </button>
           </div>
 

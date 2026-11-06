@@ -78,7 +78,7 @@ export const StudentLogin: React.FC<StudentLoginProps> = ({
             </div>
             
             <span className="text-[11px] font-semibold tracking-wider uppercase text-indigo-300 block mb-1">
-              Portal Pemilih Siswa
+              Portal Pemilih
             </span>
             <h2 className="text-xl font-bold tracking-tight text-white mb-1">
               {electionTitle}
@@ -100,7 +100,7 @@ export const StudentLogin: React.FC<StudentLoginProps> = ({
         {/* Form */}
         <div className="p-6 sm:p-8">
           <div className="mb-6">
-            <h3 className="text-base font-bold text-slate-900">Masuk dengan Data Siswa</h3>
+            <h3 className="text-base font-bold text-slate-900">Masuk dengan Data Pemilih</h3>
             <p className="text-xs text-slate-500 mt-0.5">
               Gunakan Nomor Induk Siswa Nasional (NISN) dan tanggal lahir terdaftar.
             </p>
